@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://propertyineurope.pro/sitemap.txt
